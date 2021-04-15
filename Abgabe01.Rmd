@@ -1,0 +1,35 @@
+---
+title: "Finale Abgabe 01 Luis Maecker"
+author: "Luis Maecker"
+date: "14 4 2021"
+output: html_document
+---
+<style>
+body {
+  color: darkgreen;
+  background-color: lightblue;
+ 
+}
+p {
+  color: brown;
+}
+</style>
+
+```{r}
+
+a <- 2
+b <- 5
+r1 <- a+b
+r2 <- a-b
+r3 <- a*b
+r4 <- a/b
+v1 <- c(r1,r2,r3,r4)
+r5 <- a**b
+v1 <- c(r1,r2,r3,r4,r5)
+v1
+v2 <- c("sum","difference","product","ratio","power")
+v2
+df <- data.frame("Results" =v1, "Operation" =v2)
+df
+df[3,1]
+```
