@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T14:45:59.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="4Aso44O331A5-y2egO16" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T17:01:43.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="_WS6xxcu2BASt7uqFz1-" version="22.1.21" type="github">
   <diagram name="Seite-1" id="H8ygi_F45hdM_7PtmzMp">
     <mxGraphModel dx="1050" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="6DsjIwaLp995L74V91fE-20" value="DLM - DOM - LiDAR" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jyjvMVLU_LK2i8KLU0qR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-23" target="jyjvMVLU_LK2i8KLU0qR-1">
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-23" target="jyjvMVLU_LK2i8KLU0qR-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-23" value="DLM - relevante Habitate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -137,6 +137,12 @@
           <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jyjvMVLU_LK2i8KLU0qR-1" value="Gemittelte Größe naheliegender Polygone" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="655" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jyjvMVLU_LK2i8KLU0qR-3" target="jyjvMVLU_LK2i8KLU0qR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-3" value="100 Meter Puffer und Überschneidungen analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="655" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
