@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T20:11:56.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Rs-TdSmT69lrBVgPtWmH" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:24:07.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="CNrqjcFnuihQF8-2HrBF" version="22.1.21" type="github">
   <diagram name="Seite-1" id="H8ygi_F45hdM_7PtmzMp">
-    <mxGraphModel dx="1105" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="2171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,22 +74,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-14" value="Gehölze mit Versteckmöglichkeiten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="70" y="1031" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-15" value="Wald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="300" y="530" width="140" height="70" as="geometry" />
+          <mxGeometry x="540" y="1160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-16" value="Feldfrucht Reichtum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="270" y="1031" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-17" value="Grenzlinien (Feld - Weg Raine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="344" y="160" width="140" height="70" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-17" value="DLM: Grenzlinien (Feld - Weg Raine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="515" y="901" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="140" height="70" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-18" value="DLM: Wechsel aus Ackerfläche und Grünland" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="901" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-19" value="Grenzlinien (Feld - Weg Raine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="660" y="160" width="140" height="70" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-19" value="ökologische Bewirtschaftung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="890" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-20" target="6DsjIwaLp995L74V91fE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-20" value="DLM - DOM - LiDAR" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-23" value="DLM - relevante Habitate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="655" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-24" target="6DsjIwaLp995L74V91fE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-24" value="Thuene Feldfrüchte" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-25" value="Thuene Mahd-daten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-37" target="6DsjIwaLp995L74V91fE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-37" value="&#xa;letztes verfügbares Jahr 2021&#xa;&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6DsjIwaLp995L74V91fE-39" value="&lt;br&gt;auf DLM-Flächen Anzahl Feldfrüchte berechnen&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
