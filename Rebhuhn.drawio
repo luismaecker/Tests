@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T15:58:10.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="NqXTP4W6meezi49wxatx" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T16:07:55.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="bUb9bL5E1Hr1_A62t0MR" version="22.1.21" type="github">
   <diagram name="Seite-1" id="H8ygi_F45hdM_7PtmzMp">
     <mxGraphModel dx="1235" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,36 +74,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-14" value="Gehölze mit Versteckmöglichkeiten" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1031" width="140" height="70" as="geometry" />
+          <mxGeometry x="20" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-15" value="Wald" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="515" y="1160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-16" value="Feldfrucht Reichtum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1031" width="140" height="70" as="geometry" />
+          <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-17" value="DLM: Grenzlinien (Feld - Weg Raine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="515" y="901" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-18" value="DLM: Wechsel aus Ackerfläche und Grünland" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="760" y="901" width="140" height="70" as="geometry" />
+          <mxGeometry x="460" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-19" value="ökologische Bewirtschaftung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="890" width="140" height="70" as="geometry" />
+          <mxGeometry x="1040" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DsjIwaLp995L74V91fE-20" target="6DsjIwaLp995L74V91fE-41" edge="1">
+        <mxCell id="6DsjIwaLp995L74V91fE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="6DsjIwaLp995L74V91fE-20" target="6DsjIwaLp995L74V91fE-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-20" value="DLM - DOM - LiDAR" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jyjvMVLU_LK2i8KLU0qR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-23" target="jyjvMVLU_LK2i8KLU0qR-3">
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-23" target="jyjvMVLU_LK2i8KLU0qR-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-23" value="DLM - relevante Habitate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="655" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="575" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DsjIwaLp995L74V91fE-24" target="6DsjIwaLp995L74V91fE-37" edge="1">
+        <mxCell id="6DsjIwaLp995L74V91fE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="6DsjIwaLp995L74V91fE-24" target="6DsjIwaLp995L74V91fE-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6DsjIwaLp995L74V91fE-24" value="Thuene Feldfrüchte" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -112,38 +112,60 @@
         <mxCell id="6DsjIwaLp995L74V91fE-25" value="Thuene Mahd-daten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1010" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DsjIwaLp995L74V91fE-37" target="6DsjIwaLp995L74V91fE-39" edge="1">
+        <mxCell id="6DsjIwaLp995L74V91fE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="6DsjIwaLp995L74V91fE-37" target="6DsjIwaLp995L74V91fE-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-37" value="&lt;br&gt;letzte 3 verfügbare Jahre&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="280" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-37" value="&lt;br&gt;letzte 3 verfügbare Jahre&lt;br&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="280" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-39" value="&lt;br&gt;Mittelwert unterschiedlicher Ackerfrüchte pro Ha. " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="280" y="440" width="120" height="80" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-39" value="&lt;br&gt;Mittelwert unterschiedlicher Ackerfrüchte pro Ha. " style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="280" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DsjIwaLp995L74V91fE-41" target="6DsjIwaLp995L74V91fE-43" edge="1">
+        <mxCell id="6DsjIwaLp995L74V91fE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="6DsjIwaLp995L74V91fE-41" target="6DsjIwaLp995L74V91fE-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-41" value="Gehoelze aus nDOM erkennen" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="80" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-41" value="Gehoelze aus nDOM erkennen" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6DsjIwaLp995L74V91fE-43" target="6DsjIwaLp995L74V91fE-45" edge="1">
+        <mxCell id="6DsjIwaLp995L74V91fE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="6DsjIwaLp995L74V91fE-43" target="6DsjIwaLp995L74V91fE-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-43" value="Gehoelze liegenschaft analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="80" y="440" width="120" height="80" as="geometry" />
+        <mxCell id="6DsjIwaLp995L74V91fE-43" value="Gehoelze liegenschaft analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="80" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6DsjIwaLp995L74V91fE-45" value="Unterbewuchs mit LiDAR-Daten analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="6DsjIwaLp995L74V91fE-45" value="Unterbewuchs mit LiDAR-Daten analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jyjvMVLU_LK2i8KLU0qR-1" value="Gemittelte Größe naheliegender Polygone" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="655" y="430" width="120" height="80" as="geometry" />
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-1" value="Gemittelte Größe naheliegender Polygone" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jyjvMVLU_LK2i8KLU0qR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jyjvMVLU_LK2i8KLU0qR-3" target="jyjvMVLU_LK2i8KLU0qR-1">
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="jyjvMVLU_LK2i8KLU0qR-3" target="jyjvMVLU_LK2i8KLU0qR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jyjvMVLU_LK2i8KLU0qR-3" value="100 Meter Puffer und Überschneidungen analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="655" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-3" value="50 Meter Puffer und Überschneidungen analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="670" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="6DsjIwaLp995L74V91fE-23" target="jyjvMVLU_LK2i8KLU0qR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="380" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="635" y="240" />
+              <mxPoint x="550" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="jyjvMVLU_LK2i8KLU0qR-7" target="jyjvMVLU_LK2i8KLU0qR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-7" value="30 Meter Puffer und Überschneidungen analysieren" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-8" value="Acker und Grünland in vorhanden?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjvMVLU_LK2i8KLU0qR-10" value="Strukturreichtum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="780" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
